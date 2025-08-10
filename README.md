@@ -1,2 +1,2 @@
 # M7-L2-Bot-discord-klasifikasi
-M7 L2 Fakhri 
+Tugas M7 L2 Fakhri : Bot discord yang bisa mengklasifikasikan gambar 
